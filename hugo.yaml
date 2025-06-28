@@ -61,8 +61,10 @@ params:
       url: https://bulma.io/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
+  - title: Profile
     url: /
+  - title: Features
+    url: /profile
   - title: Pricing
     url: /
   - title: Dropdown
@@ -86,7 +88,7 @@ params:
       icon: user
       links:
       - text: Profile
-        url: /
+        url: /profile
       - text: Account
         url: /
       - text: Settings
