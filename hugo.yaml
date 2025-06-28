@@ -62,7 +62,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Profile
-    url: /
+    url: /profile
   - title: Features
     url: /profile
   - title: Pricing
